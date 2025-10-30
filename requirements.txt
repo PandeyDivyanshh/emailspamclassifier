@@ -1,0 +1,24 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+
+# NLP (Natural Language Processing)
+nltk
+
+
+# Model Persistence
+joblib
+
+
+# Web App (Optional - if you plan to deploy using Streamlit)
+gradio
+
+
+
